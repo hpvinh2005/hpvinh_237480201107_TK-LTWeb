@@ -1,0 +1,20 @@
+h1{
+    color: rgb(216, 36, 36);
+    background-color: rgb(216, 28, 216);
+}
+p{
+    color: aliceblue;
+  font-size: 14px;
+  background-color: blue;  
+}
+div p {
+    font-size: 14;
+    background-color: sienna;
+    color: gold;
+}
+body{
+  border: 2px solid rgba(0, 7, 2, 0.692);
+  height: auto;
+  width: auto;
+  padding: 1px;
+}

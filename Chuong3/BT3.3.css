@@ -1,0 +1,22 @@
+body{
+    background-color: white;
+}
+
+.container{
+    border: 2px solid rgba(0, 0, 0, 0.7);
+    background-color: hotpink;
+
+    width: fit-content;    
+    padding: 20px;          
+    margin: 40px auto;      
+}
+
+h1{
+    color: rgb(9, 9, 160);
+    text-align: center;
+}
+
+ol li{
+    font-size: 14px;
+    color: black;
+}

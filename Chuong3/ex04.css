@@ -1,0 +1,40 @@
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    display: flex;
+    justify-content: center; 
+    margin-top: 50px;
+}
+
+table {
+    border-collapse: collapse; 
+    width: 800px;              
+    font-size: 14pt;           
+    font-weight: bold;         
+    text-align: center;        
+}
+
+/* Kẻ khung cho tất cả các ô */
+td {
+    border: 1px solid black;
+    padding: 10px;
+    width: 12.5%; 
+}
+
+
+
+
+.header-row td {
+    background-color: #bfbfbf; 
+}
+
+
+.side-header {
+    background-color: #808080; 
+    color: black;
+}
+
+
+tr:not(.header-row) td:not(.side-header) {
+    background-color: #e6e6e6; 
+}

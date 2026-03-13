@@ -1,0 +1,29 @@
+h1
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  color: rgb(211, 8, 8);
+  margin: 1px;
+}
+h2{
+    font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  color: rgb(18, 64, 214);
+  margin: 1px;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  color: rgb(9, 206, 108);
+  margin: 1px;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    margin: 1px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  color: rgb(201, 214, 15);
+}
